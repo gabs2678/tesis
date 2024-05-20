@@ -54,6 +54,6 @@ tesis/
 # data/
 
 # Moodle data
-moodledata/
+#nmoodledata/
 
 /trash.txt
