@@ -51,7 +51,7 @@ tesis/
 *.swp
 
 # Docker volumes or specific data
-data/
+# data/
 
 # Moodle data
 moodledata/
