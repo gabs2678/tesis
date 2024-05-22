@@ -11,7 +11,7 @@ __pycache__/
 #build/
 #!moodle/lib/amd/build/
 develop-eggs/
-dist/
+#dist/
 downloads/
 eggs/
 .eggs/
